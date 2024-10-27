@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="products.css" type="text/css"?>
+<products>
+    <product>
+        <name>Wireless Earbuds</name>
+        <description>High-quality Bluetooth earbuds with noise-cancellation and long battery life.</description>
+        <price>49.99</price>
+        <categories>
+            <category>Electronics</category>
+            <category>Audio</category>
+            <category>Accessories</category>
+        </categories>
+    </product>
+
+    <product>
+        <name>Organic Green Tea</name>
+        <description>Premium loose leaf green tea, sourced from organic farms.</description>
+        <price>12.50</price>
+        <categories>
+            <category>Food &amp; Beverage</category>
+        </categories>
+    </product>
+
+    <product>
+        <name>Yoga Mat</name>
+        <description>Non-slip, eco-friendly yoga mat with extra padding for comfort.</description>
+        <price>29.99</price>
+        <categories>
+            <category>Fitness</category>
+            <category>Wellness</category>
+        </categories>
+    </product>
+
+    <product>
+        <name>Stainless Steel Water Bottle</name>
+        <description>Insulated water bottle to keep drinks cold or hot for hours.</description>
+        <price>19.99</price>
+        <categories>
+            <category>Fitness</category>
+            <category>Accessories</category>
+        </categories>
+    </product>
+
+    <product>
+        <name>Smartphone Holder</name>
+        <description>Adjustable smartphone holder for desks and countertops.</description>
+        <price>15.00</price>
+        <categories>
+            <category>Electronics</category>
+            <category>Accessories</category>
+        </categories>
+    </product>
+
+    <product>
+        <name>LED Desk Lamp</name>
+        <description>Energy-efficient LED desk lamp with adjustable brightness and touch controls.</description>
+        <price>35.75</price>
+        <categories>
+            <category>Home &amp; Office</category>
+            <category>Electronics</category>
+        </categories>
+    </product>
+
+    <product>
+        <name>Wireless Keyboard</name>
+        <description>Sleek, compact wireless keyboard with quiet keys and long battery life.</description>
+        <price>28.50</price>
+        <categories>
+            <category>Electronics</category>
+            <category>Accessories</category>
+        </categories>
+    </product>
+
+    <product>
+        <name>Running Shoes</name>
+        <description>Lightweight running shoes with breathable fabric and durable soles.</description>
+        <price>59.99</price>
+        <categories>
+            <category>Fitness</category>
+        </categories>
+    </product>
+</products>
+    
+
